@@ -1,25 +1,25 @@
-###instalacion de paquetes
+##instalacion de paquetes
 
-##instalar virtualenv desde bash
+###instalar virtualenv desde bash
 
-#pip install virtualenv
-#virtualenv env
+-pip install virtualenv
+-virtualenv env
 
 ###Activar enviroment
-#source env/Scripts/activate
+-source env/Scripts/activate
 
-###Intalar Flask
-##pip install flask
+##Intalar Flask
+-pip install flask
 
-###Saber paquetes instalados
+##Saber paquetes instalados
 
-##pip freeze
+-pip freeze
 
-###Reconstruir entorno virtual (en otra maquina)
-##pip freeze > requeriments.txt
+##Reconstruir entorno virtual (en otra maquina)
+-pip freeze > requeriments.txt
 
 
 
-###Desactivar entorno virtual
-##deactivate
+##Desactivar entorno virtual
+-deactivate
 
