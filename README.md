@@ -29,3 +29,17 @@
 
 - deactivate
 
+
+<h2>ERRORES</h2>
+
+- python-import-flask-could-not-be-resolved-from-   
+  source
+
+  - instalar formatedor pyton con CTR+SHIFT+P
+
+
+<h2>Verificar funcionamiento</h2>
+
+- python main.py(debug=True,puerto por defecto para 
+ que se actualicen cambios al momento )
+- Abrir enlace para verificar
