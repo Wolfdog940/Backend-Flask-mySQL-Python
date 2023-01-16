@@ -18,7 +18,7 @@
 
 <h2>Saber paquetes instalados</h2>
 
-- pip freeze
+- pip freeze  o pip list
 
 <h2>Reconstruir entorno virtual (en otra maquina)</h2>
 
