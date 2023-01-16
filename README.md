@@ -1,11 +1,11 @@
-##instalacion de paquetes
+#instalacion de paquetes
 
-###instalar virtualenv desde bash
+##instalar virtualenv desde bash
 
 -pip install virtualenv
 -virtualenv env
 
-###Activar enviroment
+##Activar enviroment
 -source env/Scripts/activate
 
 ##Intalar Flask
